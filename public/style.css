@@ -100,23 +100,23 @@ body {
 /* Backgorund Images */
  
 .slide:first-child {
-  background: url('https://source.unsplash.com/RyRpq9SUwAU/1600x900') no-repeat
+  background: url('https://upload.wikimedia.org/wikipedia/commons/b/be/Fukuoka_children%27s_hospital.jpg') no-repeat
     center top/cover;
 }
 .slide:nth-child(2) {
-  background: url('https://source.unsplash.com/BeOW_PJjA0w/1600x900') no-repeat
+  background: url('https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9354ef2a-b18e-11e9-976e-8c6a49598911.jpg?crop=1600%2C900%2C0%2C0&resize=1180') no-repeat
     center top/cover;
 }
 .slide:nth-child(3) {
-  background: url('https://source.unsplash.com/TMOeGZw9NY4/1600x900') no-repeat
+  background: url('https://img.wallpapersafari.com/desktop/1600/900/5/50/2olWxn.png') no-repeat
     center top/cover;
 }
 .slide:nth-child(4) {
-  background: url('https://source.unsplash.com/yXpA_eCbtzI/1600x900') no-repeat
+  background: url('https://s3.ap-south-1.amazonaws.com/m3india-app-dev/ckeditor/content/eye_test-1552383468.jpg') no-repeat
     center top/cover;
 }
 .slide:nth-child(5) {
-  background: url('https://source.unsplash.com/ULmaQh9Gvbg/1600x900') no-repeat
+  background: url('https://i.ndtvimg.com/i/2017-09/world-alzheimers-day-2017_650x400_81505894260.jpg') no-repeat
     center top/cover;
 } 
 .slide:nth-child(6)  {
